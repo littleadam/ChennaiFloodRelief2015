@@ -1,4 +1,3 @@
-# ChennaiFloodRelief2015
 App for chennai flood 2015 relief with important points of contact. 
 
 the design was made to feel simple and easy to operate for the users
